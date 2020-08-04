@@ -9,7 +9,9 @@
 <a href="https://www.linkedin.com/in/adityakumar101/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br> <br>
+<br> 
+<br>
+
 ### Blogs <br>
 <a href="https://blog.smartcodehub.com/author/aditya/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
