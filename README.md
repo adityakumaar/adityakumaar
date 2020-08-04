@@ -1,5 +1,7 @@
 ### Hi there I am Aditya Kumar 👋
 
+An Undergraduate Computer Applications Student
+
 📊 Data Science Student<br>
 💻 Computer Networks Enthusiast<br>
 🌐 Part Time Web Designer <br>
