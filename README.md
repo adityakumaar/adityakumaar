@@ -1,5 +1,10 @@
 ### Hi there I am Aditya Kumar 👋
 
+📊 Data Science
+💻 Computer Networks
+🌐 Web Design
+🎶 Bedroom Music Production
+
 <!--
 **adityakumaar/adityakumaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
