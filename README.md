@@ -1,9 +1,9 @@
 ### Hi there I am Aditya Kumar 👋
 
-📊 Data Science <br>
-💻 Computer Networks <br>
-🌐 Web Design <br>
-🎶 Bedroom Music Production <br>
+📊 Data Science Student<br>
+💻 Computer Networks Enthusiast<br>
+🌐 Part Time Web Designer <br>
+🎶 Bedroom Music Producer <br>
 
 ### Social Media <br>
 <a href="https://www.linkedin.com/in/adityakumar101/">
