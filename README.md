@@ -2,10 +2,10 @@
 
 An Undergraduate Computer Applications Student
 
-📊 Data Science Student<br>
-💻 Computer Networks Enthusiast<br>
-🌐 Part Time Web Designer <br>
-🎶 Bedroom Music Producer <br>
+📊 Data Science <br>
+💻 Computer Networks <br>
+🌐 Web Design <br>
+🎶 And I produce music too <br>
 
 ### Social Media <br>
 <a href="https://www.linkedin.com/in/adityakumar101/">
