@@ -1,4 +1,4 @@
-### Hi there I am Aditya Kumar 👋
+### I am Aditya Kumar 👋
 
 An Undergraduate Computer Applications Student
 
