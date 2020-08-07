@@ -23,6 +23,10 @@ An Undergraduate Computer Applications Student
 </a>
 <br>
 
+### Resume <br>
+<img href="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png"/>
+
+<br>
 <!--
 ### Languages and Tools
 
