@@ -19,13 +19,14 @@ An Undergraduate Computer Applications Student
 
 ### Blog <br>
 <a href="https://blog.smartcodehub.com/author/aditya/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+  <img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <br>
 
 ### Resume <br>
-<img href="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png"/>
-
+<a href="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png">
+  <img src="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png"/>
+</a>
 <br>
 <!--
 ### Languages and Tools
