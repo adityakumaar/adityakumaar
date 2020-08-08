@@ -29,17 +29,6 @@ An Undergraduate Computer Applications Student
 
 ---
 
-<!--
-### Updated Resume <br>
-<a href="#">
-  <img aligh="" alt="Resume-Aditya-Kumar" src="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png" />
-</a>
-<br>
----
--->
----
-
-
 <a href="#">
   <img align="center" alt="Languages and Tools used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumaar&show_icons=true&hide_border=true" />
 </a>
@@ -49,6 +38,18 @@ An Undergraduate Computer Applications Student
   <img align="center" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
 </a>
 <br>
+
+---
+
+### Updated Resume <br>
+<a href="#">
+  <img aligh="" alt="Resume-Aditya-Kumar" src="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png" />
+</a>
+<br>
+
+---
+
+
 
 
 <!--
