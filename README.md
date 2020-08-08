@@ -37,7 +37,7 @@ An Undergraduate Computer Applications Student
 
 ### Updated Resume <br>
 <a href="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png">
-  <img src="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png"/>
+  <img src="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png" />
 </a>
 <br>
 
