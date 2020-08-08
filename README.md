@@ -9,6 +9,12 @@ An Undergraduate Computer Applications Student
 
 ---
 
+### GitHub Stats <br>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
+<br>
+
+---
+
 ### Social Media <br>
 <a href="https://www.linkedin.com/in/adityakumar101/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -29,15 +35,9 @@ An Undergraduate Computer Applications Student
 
 ---
 
-### GitHub Stats <br>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
-<br>
-
----
-
 ### Updated Resume <br>
 <a href="#">
-  <img src="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png" />
+  <img aligh="" alt="Resume-Aditya-Kumar" src="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png" />
 </a>
 <br>
 
