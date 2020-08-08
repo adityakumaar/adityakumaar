@@ -41,6 +41,12 @@ An Undergraduate Computer Applications Student
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
 <br>
 
+---
+
+### GitHub Stats <br>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+<br>
+
 <!--
 ### Languages and Tools
 
