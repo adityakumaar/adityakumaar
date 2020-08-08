@@ -7,6 +7,8 @@ An Undergraduate Computer Applications Student
 🌐 Web Design <br>
 🎶 And I produce music too <br>
 
+---
+
 ### Social Media <br>
 <a href="https://www.linkedin.com/in/adityakumar101/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,14 +19,20 @@ An Undergraduate Computer Applications Student
 </a>
 <br>
 
+---
+
 ### Blog <br>
 <a href="https://blog.smartcodehub.com/author/aditya/">
   <img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <br>
 
+---
+
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
 <br>
+
+---
 
 ### Updated Resume <br>
 <a href="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png">
