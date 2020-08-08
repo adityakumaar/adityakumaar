@@ -39,8 +39,6 @@ An Undergraduate Computer Applications Student
 </a>
 <br>
 
----
-
 <!--
 ### Updated Resume <br>
 <a href="#">
