@@ -44,7 +44,7 @@ An Undergraduate Computer Applications Student
 ---
 
 ### GitHub Stats <br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumaar&show_icons=true&hide_border=true" />
 <br>
 
 <!--
