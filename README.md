@@ -37,13 +37,6 @@ An Undergraduate Computer Applications Student
 <br>
 ---
 -->
-
-### GitHub Stats <br>
-<a href="#">
-  <img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
-</a>
-<br>
-
 ---
 
 ### Languages and Tools <br>
@@ -51,6 +44,13 @@ An Undergraduate Computer Applications Student
   <img align="left" alt="Languages and Tools used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumaar&show_icons=true&hide_border=true" />
 </a>
 <br>
+
+### GitHub Stats <br>
+<a href="#">
+  <img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
+</a>
+<br>
+
 
 <!--
 **adityakumaar/adityakumaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
