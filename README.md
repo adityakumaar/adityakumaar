@@ -23,6 +23,9 @@ An Undergraduate Computer Applications Student
 </a>
 <br>
 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
+<br>
+
 ### Updated Resume <br>
 <a href="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png">
   <img src="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png"/>
