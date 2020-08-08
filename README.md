@@ -30,12 +30,12 @@ An Undergraduate Computer Applications Student
 ---
 
 <a href="#">
-  <img align="center" alt="Languages and Tools used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumaar&show_icons=true&hide_border=true" />
+  <img align="left" alt="Languages and Tools used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumaar&show_icons=true&hide_border=true" />
 </a>
 <br>
 
 <a href="#">
-  <img align="center" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
+  <img align="right" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
 </a>
 <br>
 
