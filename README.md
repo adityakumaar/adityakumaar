@@ -35,15 +35,16 @@ An Undergraduate Computer Applications Student
   <img aligh="" alt="Resume-Aditya-Kumar" src="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png" />
 </a>
 <br>
--->
-
 ---
+-->
 
 ### GitHub Stats <br>
 <a href="#">
   <img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
 </a>
 <br>
+
+---
 
 ### Languages and Tools <br>
 <a href="#">
