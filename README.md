@@ -25,7 +25,7 @@ An Undergraduate Computer Applications Student
 ### Blog <br>
 
 <a href="https://blog.smartcodehub.com/author/aditya/">
-  <img align="left" alt="SmartCodeHub Blog" width="35px" src="https://blog.smartcodehub.com/content/images/2020/03/logo--1-.png" alt="drawing" width="35"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="left" alt="SmartCodeHub Blog" width="35px" src="https://blog.smartcodehub.com/content/images/2020/03/logo--1-.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
 <br>
@@ -49,10 +49,6 @@ An Undergraduate Computer Applications Student
 </a>
 <br>
 --->
-
-
-
-
 
 <!--
 <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
