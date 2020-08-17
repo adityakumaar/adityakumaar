@@ -1,6 +1,7 @@
-### I am Aditya Kumar 👋
+### Hello, mate. I am Aditya Kumar 👋
 
-An Undergraduate Computer Applications Student. I am currently just focusing on learning, gaining knowledge and practicing by building simple projects. I am always open for connections on my LinkedIn profile.
+An Undergraduate Computer Applications Student. I am currently focusing on learning, gaining knowledge and practicing by building simple projects. 
+I am always open for connections on my LinkedIn profile.
 
 These are some fields I am interested into:
 
