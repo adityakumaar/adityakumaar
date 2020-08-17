@@ -1,6 +1,8 @@
 ### I am Aditya Kumar 👋
 
-An Undergraduate Computer Applications Student
+An Undergraduate Computer Applications Student. I am currently just focusing on learning, gaining knowledge and practicing by building simple projects. I am always open for connections on my LinkedIn profile.
+
+These are some fields I am interested into:
 
 📊 Data Science <br>
 💻 Computer Networks <br>
