@@ -12,7 +12,7 @@ An Undergraduate Computer Applications Student
 ### Social Media <br>
 
 <a href="https://www.linkedin.com/in/adityakumar101/">
-  <img align="left" alt="LinkedIn" width="100px" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="left" alt="LinkedIn" width="100px" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <!--
 <a href="https://www.instagram.com/prod.hrtg/">
