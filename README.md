@@ -18,9 +18,13 @@ An Undergraduate Computer Applications Student
 <a href="https://www.linkedin.com/in/adityakumar101/">
   <img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-
+<!--
 <a href="https://www.instagram.com/prod.hrtg/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+-->
+<a href="https://www.instagram.com/prod.hrtg/">
+  <img src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
 
