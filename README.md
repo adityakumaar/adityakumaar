@@ -5,7 +5,7 @@ An Undergraduate Computer Applications Student
 📊 Data Science <br>
 💻 Computer Networks <br>
 🌐 Web Design <br>
-🎶 And I produce music too <br>
+🎶 And music production <br>
 
 ---
 
