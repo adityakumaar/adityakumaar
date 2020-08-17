@@ -10,8 +10,13 @@ An Undergraduate Computer Applications Student
 ---
 
 ### Social Media <br>
+<!--
 <a href="https://www.linkedin.com/in/adityakumar101/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+-->
+<a href="https://www.linkedin.com/in/adityakumar101/">
+  <img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
 <a href="https://www.instagram.com/prod.hrtg/">
@@ -50,8 +55,7 @@ An Undergraduate Computer Applications Student
 
 
 
-<a href="https://www.linkedin.com/in/adityakumar101/">
-  <img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+
 <!--
 <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 <img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
