@@ -38,7 +38,7 @@ An Undergraduate Computer Applications Student
 <br>
 -->
 <a href="https://blog.smartcodehub.com/author/aditya/">
-  <img align="left" alt="SmartCodeHub Blog" width="100px" src="https://blog.smartcodehub.com/content/images/2020/03/logo--1-.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="left" alt="SmartCodeHub Blog" width="50px" src="https://blog.smartcodehub.com/content/images/2020/03/logo--1-.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
 
