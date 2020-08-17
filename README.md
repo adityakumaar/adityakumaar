@@ -20,7 +20,7 @@ An Undergraduate Computer Applications Student
 </a>
 -->
 <a href="https://www.instagram.com/prod.hrtg/">
-  <img align="left" alt="LinkedIn" width="100px" src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="left" alt="LinkedIn" width="100px" src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
 
