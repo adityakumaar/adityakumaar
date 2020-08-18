@@ -3,7 +3,7 @@
 An Undergraduate Computer Applications Student. I am currently focusing on learning, gaining knowledge and practicing by building simple projects. 
 I am always open for connections on my LinkedIn profile.
 
-These are some fields I am interested into:
+These are some fields I am interested in:
 
 📊 Data Science <br>
 💻 Computer Networks <br>
@@ -59,6 +59,7 @@ These are some fields I am interested into:
 <img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 -->
+
 <!--
 **adityakumaar/adityakumaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
