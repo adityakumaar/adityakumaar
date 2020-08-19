@@ -23,7 +23,7 @@ These are some fields I am interested in:
 </a>
 
 <a href="https://twitter.com/_adityakumar_">
-  <img align="left" alt="Twitter" width="36px" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="left" alt="Twitter" width="35px" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
 
