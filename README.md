@@ -21,6 +21,10 @@ These are some fields I am interested in:
 <a href="https://www.instagram.com/prod.hrtg/">
   <img align="left" alt="LinkedIn" width="100px" src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
+
+<a href="https://twitter.com/_adityakumar_">
+  <img align="left" alt="Twitter" width="100px" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>
 <br>
 
 ---
