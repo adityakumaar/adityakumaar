@@ -3,7 +3,7 @@
 An Undergraduate Computer Applications Student. 
 I am currently focusing on learning, gaining knowledge and practicing by building projects and I like to make music and read books in my free time.  
 
-Connect with me on my LinkedIn profile and we can share a book or two.  
+Connect with me on my LinkedIn profile and we can share a book or two :)  
 
 These are some fields I am interested in:
 
