@@ -23,7 +23,7 @@ These are some fields I am interested in:
 </a>
 
 <a href="https://twitter.com/_adityakumar_">
-  <img align="left" alt="Twitter" width="35px" src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="left" alt="Twitter" width="35px" src="https://png2.cleanpng.com/sh/ad95e42ff74fd5b737fddc75af345789/L0KzQYm3WMEyN5DwkJH0aYP2gLBuTfZwdqUyjOlydITogn7zjBdwNaF0iuZqYnzoPbBslQdwepwyfARqcHjsc8S0jPV1fJZ3ReRqaX6wRbO9hfQxOWU9fdM5N0GxR4O3WMc2OmU2TaU8OUi7SIm7Vcg1Ol91htk=/kisspng-font-twitter-logo-portable-network-graphics-letter-rain-5b6ed0148ea071.7208752415339888845842.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
 
