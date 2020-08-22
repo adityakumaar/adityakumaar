@@ -61,7 +61,6 @@ These are some fields I am interested in:
 --->
 
 <!--
-<img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 
 
 
