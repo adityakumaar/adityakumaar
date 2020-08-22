@@ -1,5 +1,5 @@
 ### Hello, I am Aditya Kumar 👋 
-![Awesome](https://img.shields.io/badge/%F0%9F%98%8E-Awesome-blue?style=for-the-badge)
+![Chill Vibes Only](https://img.shields.io/badge/%F0%9F%98%8E-Awesome-blue?style=for-the-badge)
 
 An undergraduate Computer Applications student. 
 I am currently focusing on learning, gaining knowledge and practicing by building projects and I like to make music and read books in my free time.  
