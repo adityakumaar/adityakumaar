@@ -1,5 +1,5 @@
 ### Hello, I am Aditya Kumar 👋 
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg?style=for-the-badge)
+![Awesome](https://img.shields.io/badge/%F0%9F%98%8E-Awesome-blue?style=for-the-badge)
 
 An undergraduate Computer Applications student. 
 I am currently focusing on learning, gaining knowledge and practicing by building projects and I like to make music and read books in my free time.  
