@@ -52,7 +52,13 @@ These are some fields I am interested in:
 </a>
 <br>
 
-
+<!--
+### Updated Resume <br>
+<a href="#">
+  <img aligh="" alt="Resume-Aditya-Kumar" src="https://github.com/adityakumaar/adityakumaar/blob/master/resume-aditya-kumar.png" />
+</a>
+<br>
+--->
 
 
 
