@@ -51,8 +51,6 @@ These are some fields I am interested in:
   <img align="right" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
 </a>
 <br>
-
-
 <!--
 **adityakumaar/adityakumaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
