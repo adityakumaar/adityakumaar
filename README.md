@@ -41,7 +41,7 @@ These are some fields I am interested in:
 <br>
 
 ---
-<h6> *Please note the programming languages in Languages and Tools Used doesnot show my proficiency in these languages but the amount of code used for developing projects in these languages. </h6>
+<h6> *Please note the programming languages in 'Most Used Languages' doesnot show my proficiency in these languages but the amount of code used for developing projects in these languages. </h6>
 
 <a href="#">
   <img align="left" alt="Languages and Tools used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumaar&show_icons=true&hide_border=true" />
