@@ -51,6 +51,8 @@ These are some fields I am interested in:
   <img align="right" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adityakumaar&show_icons=true&hide_border=true" />
 </a>
 <br>
+
+<h6> Please note the programming languages in Languages and Tools Used doesnot show my proficiency in these lenguages but the amount of code used for developing projects </h6>
 <!--
 **adityakumaar/adityakumaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
