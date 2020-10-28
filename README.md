@@ -38,7 +38,7 @@ These are some fields I am interested in:
   <img align="left" alt="SmartCodeHub Blog" width="32px" src="https://github.com/adityakumaar/adityakumaar/blob/master/smartcodehub-logo.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://public.tableau.com/profile/aditya.kumar3586#!/">
-  <img align="left" alt="Tableau Dashboards" width="32px" src="https://github.com/adityakumaar/adityakumaar/blob/master/tableau_logo.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="left" alt="Tableau Dashboards" width="150px" src="https://github.com/adityakumaar/adityakumaar/blob/master/tableau_logo.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
 <br>
