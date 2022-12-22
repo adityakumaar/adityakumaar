@@ -1,7 +1,7 @@
 ### Hello, I am Aditya Kumar 👋 
 ![Awesome](https://img.shields.io/badge/%F0%9F%98%8E-Awesome-blue?style=for-the-badge)
 
-An undergraduate Computer Applications student. 
+A Master's student at Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar. 
 I am currently focusing on learning, gaining knowledge and practicing by building projects and I like to make music and read books in my free time.  
 
 Connect with me on my LinkedIn profile and we can share a book or two :)  
@@ -21,11 +21,11 @@ These are some fields I am interested in:
   <img align="left" alt="LinkedIn" width="100px" src="https://github.com/adityakumaar/adityakumaar/blob/master/linkedin-logo.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
-<a href="https://www.instagram.com/prod.hrtg/">
+<a href="https://www.instagram.com/#/">
   <img align="left" alt="LinkedIn" width="100px" src="https://github.com/adityakumaar/adityakumaar/blob/master/instagram-logo.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
-<a href="https://twitter.com/_adityakumar_">
+<a href="https://twitter.com/#">
   <img align="left" alt="Twitter" width="100px" src="https://github.com/adityakumaar/adityakumaar/blob/master/twitter-logo.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
